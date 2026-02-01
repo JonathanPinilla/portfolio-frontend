@@ -2,6 +2,9 @@
 
 This repository contains the **frontend code for my personal portfolio webpage** built with modern web technologies. The site showcases my projects, skills, and contact information in a clean and responsive layout.
 
+> [!NOTE]
+> Huge thanks to [Maria Medina](https://www.linkedin.com/in/maria-medina-polo-79002b138/) that designed the entire UI/UX of the project.
+
 ---
 
 ### 🚀 Features
